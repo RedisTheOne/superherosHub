@@ -1,0 +1,22 @@
+{
+  "name": "superherosHub",
+  "displayName": "SuperherosHub",
+  "expo": {
+    "name": "superherosHub",
+    "icon": "./images/ic_launcher_round.png",
+    "slug": "superherosHub",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.codebenders.superheroshub",
+      "versionCode": 1
+    }
+  }
+}
